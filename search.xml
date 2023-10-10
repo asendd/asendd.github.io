@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试文章无意义</title>
+      <link href="/2023/03/06/test1/"/>
+      <url>/2023/03/06/test1/</url>
+      
+        <content type="html"><![CDATA[<p><img src="R-C.jpeg"></p><p>这是一个测试文章，哈哈</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
